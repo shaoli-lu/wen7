@@ -33,7 +33,7 @@ img {
 }
 
 form {
-    flex;
+    display:flex;
     
 }
 
@@ -68,14 +68,14 @@ iframe {
     border: 1px green solid;
     /* border:3px green solid; */
     width:375px; 
-    height:385px; 
+    height:844px; 
 
   }
 
   .wrap-element {
     position: relative;
     overflow: hidden;
-    padding-top: 56.25%;
+    padding-top: 100%;
   }
   
   .wrapped-iframe {
